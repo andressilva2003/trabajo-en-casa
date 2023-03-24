@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: #2980b9;
+
+}
+body{
+    background-color: black;
+}
+.calculadora{
+    display:block;
+    margin:0 auto;
+    padding:20px;
+    background-color:#cfef16;
+    width:380px;
+    height:500px;
+    border: 25px;
+  }
+  .calculadora td button{
+    display:block;
+    width:70px;
+    height: 70px;
+    font-size: 25px;
+    border-radius: 6px;
+    color: #ea3a3a;
+  }
+  
+  #resultado{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width:300px;
+    height: 100px;
+    line-height: 100px;
+    background-color:#ea3a3a;
+    border: 25px;
+  }
